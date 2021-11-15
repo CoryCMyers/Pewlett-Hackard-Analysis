@@ -2,7 +2,7 @@
 Analysis of Pewlett Hackard Recovery Plan
 
 ## <p align=center> Purpose of Analsysis
-  <p align=center> ----
+
     
     The Purpose of this analysis is to present the upcoming employment crisis due to empplyee age.
     Reasons for Analysis
@@ -12,6 +12,6 @@ Analysis of Pewlett Hackard Recovery Plan
         * There is an impending crisis in Management
     
 ## <p align=center> Impending Management Needs
-   <p align=center> ----
+
      
     
